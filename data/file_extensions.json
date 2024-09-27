@@ -1,0 +1,7 @@
+{
+  ".erb": "code",
+  ".anydesk": "video",
+  ".xz": "iso",
+  ".srt": "subtitles",
+  ".dump": "postgres"
+}
