@@ -26,8 +26,8 @@ a second file to categorize based on extension.
 
 # Future Improvement ideas - PR(s) Appreciated!
 
-1. Load the categorization data from an external API or library to be automatically updated.
-2. A preview before moving / Interface to show the different classification(s), and allow the user to modify it. Web UI/GUI app.
+1. Load the categorization data from an external API or library.
+2. A preview / Interface to show the different classification(s), and allow the user to modify the destination before moving. Web UI/GUI app.
 
 ## Author
 
