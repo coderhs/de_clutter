@@ -181,7 +181,7 @@
 "application/s-compressed": "archive",
 "multipart/x-zip": "archive",
 "text/x-scriptzsh": "code",
-"application/epub+zip": "archive",
+"application/epub+zip": "document",
 "application/vnd.oasis.opendocument.text": "document",
 "application/x-cd-image": "iso",
 "application/x-ms-dos-executable": "windows",
